@@ -1328,3 +1328,11 @@ a:hover {
 .site-block-testimony.active {
   border-radius: 1em !important;
 }
+
+.row>.col-md-6.col-lg-4 {
+  display: block;
+  position: relative;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
