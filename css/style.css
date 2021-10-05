@@ -1329,14 +1329,6 @@ a:hover {
   border-radius: 1em !important;
 }
 
-.row>.col-md-6.col-lg-4 {
-  display: block;
-  position: relative;
-  left: 0;
-  right: 0;
-  margin: auto;
-}
-
 .mb-5>row {
   margin-bottom: 3rem !important;
   left: 0;
@@ -1345,6 +1337,6 @@ a:hover {
   display: block !important;
 }
 
-.site-block-feature-2.d-flex.rounded.mb-5 {
+.obligate {
   display: block !important;
 }
