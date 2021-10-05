@@ -1336,3 +1336,15 @@ a:hover {
   right: 0;
   margin: auto;
 }
+
+.mb-5>row {
+  margin-bottom: 3rem !important;
+  left: 0;
+  right: 0;
+  margin: auto;
+  display: block !important;
+}
+
+.site-block-feature-2.d-flex.rounded.mb-5 {
+  display: block !important;
+}
