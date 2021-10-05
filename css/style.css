@@ -794,6 +794,7 @@ a:hover {
 .site-block-feature {
   background: rgba(0, 0, 0, 0.5);
   position: relative;
+  border-radius: 1em !important;
 }
 
 .site-block-feature .icon {
@@ -1315,4 +1316,15 @@ a:hover {
   -webkit-box-shadow: inset 0 0 6px rgb(0 0 0 / 30%);
   border-radius: 10px;
   background-color: #F5F5F5;
+}
+
+.site-block-3 .feature:hover,
+.site-block-3 .feature:active,
+.site-block-3 .feature:focus,
+.site-block-3 .feature.active {
+  border-radius: 1em !important;
+}
+
+.site-block-testimony.active {
+  border-radius: 1em !important;
 }
